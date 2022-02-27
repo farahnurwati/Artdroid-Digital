@@ -1,0 +1,419 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"STARTAPP",
+      "main_ads_banner": "ca-app-pub-8610956856200147/7055710399",
+      "main_ads_intertitial":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"201133413",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.artdroiddigital.wallpapergodzilla"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Godzilla Image",
+      "wallpaper_url": ""
+    },
+    {
+      "name_category": "Godzilla live wallpaper",
+      "wallpaper_url": ""
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 2,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 3,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 4,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 5,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 6,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 7,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 8,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 9,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 10,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 11,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 12,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 13,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 14,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 15,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 16,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 17,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 18,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 19,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 20,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 21,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 22,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 23,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 24,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 25,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 26,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 27,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item27",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 28,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 29,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 30,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item30",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 31,
+      "name_category": "EGodzilla Image",
+      "wallpaper_name": "item31",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 32,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item32",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 33,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item33",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 34,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item34",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 35,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item35",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 36,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item36",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 37,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item37",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 38,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item38",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 39,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item39",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 40,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item40",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 41,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item41",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 42,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item42",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 43,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item43",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 44,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item44",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 45,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item45",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 46,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item46",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 47,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item47",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 48,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item48",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 49,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item49",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 50,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item50",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 51,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item51",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 52,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item52",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 53,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item53",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 54,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item54",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    },
+    {
+      "id": 55,
+      "name_category": "Godzilla Image",
+      "wallpaper_name": "item55",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": ""
+    }
+  ]
+}
