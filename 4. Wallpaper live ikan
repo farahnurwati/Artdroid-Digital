@@ -31,107 +31,107 @@
     {
       "id": 1,
       "name_category": "Live wallpaper",
-      "wallpaper_name": "item1",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "video/item1.mp4"
+      "image_url": "image/item1.png",
+      "video_url": "video/item1",
+      "voice_url": "water01"
     },
     {
       "id": 2,
       "name_category": "Live wallpaper",
-      "wallpaper_name": "item2",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "video/item2.mp4"
+      "image_url": "image/item2.png",
+      "video_url": "video/item2",
+      "voice_url": "water01"
     },
     {
       "id": 3,
       "name_category": "Live wallpaper",
-      "wallpaper_name": "item3",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "video/item3.mp4"
+      "image_url": "image/item3.png",
+      "video_url": "video/item3",
+      "voice_url": "water01"
     },
     {
       "id": 4,
       "name_category": "Live wallpaper",
-      "wallpaper_name": "item4",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "video/item4.mp4"
+      "image_url": "image/item4.png",
+      "video_url": "video/item4",
+      "voice_url": "water01"
     },
     {
       "id": 5,
       "name_category": "Live wallpaper",
-      "wallpaper_name": "item5",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "video/item5.mp4"
+      "image_url": "image/item5.png",
+      "video_url": "video/item5",
+      "voice_url": "water01"
     },
     {
       "id": 6,
       "name_category": "Live wallpaper",
-      "wallpaper_name": "item6",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "video/item6.mp4"
+      "image_url": "image/item6.png",
+      "video_url": "video/item6",
+      "voice_url": "water01"
     },
     {
       "id": 7,
       "name_category": "Live wallpaper",
-      "wallpaper_name": "item7",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "video/item7.mp4"
+      "image_url": "image/item7.png",
+      "video_url": "video/item7",
+      "voice_url": "water01"
     },
     {
       "id": 8,
       "name_category": "Live wallpaper",
-      "wallpaper_name": "item8",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "video/item8.mp4"
+      "image_url": "image/item8.png",
+      "video_url": "video/item8",
+      "voice_url": "water01"
     },
     {
       "id": 9,
       "name_category": "Live wallpaper",
-      "wallpaper_name": "item9",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "video/item9.mp4"
+      "image_url": "image/item9.png",
+      "video_url": "video/item9",
+      "voice_url": "water01"
     },
     {
       "id": 10,
       "name_category": "Live wallpaper",
-      "wallpaper_name": "item10",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "video/item10.mp4"
+      "image_url": "image/item10.png",
+      "video_url": "video/item10",
+      "voice_url": "water01"
     },
     {
       "id": 11,
-      "name_category": "Godzilla Image",
-      "wallpaper_name": "item11",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "video/item11.mp4"
+      "name_category": "Live wallpaper",
+      "image_url": "image/item11.png",
+      "video_url": "video/item11",
+      "voice_url": "water01"
     },
     {
       "id": 12,
       "name_category": "Live wallpaper",
-      "wallpaper_name": "item12",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "video/item12.mp4"
+      "image_url": "image/item12.png",
+      "video_url": "video/item12",
+      "voice_url": "water01"
     },
     {
       "id": 13,
       "name_category": "Live wallpaper",
-      "wallpaper_name": "item13",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "video/item13.mp4"
+      "image_url": "image/item13.png",
+      "video_url": "video/item13",
+      "voice_url": "water01"
     },
     {
       "id": 14,
       "name_category": "Live wallpaper",
-      "wallpaper_name": "item14",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "video/item14.mp4"
+      "image_url": "image/item14.png",
+      "video_url": "video/item14",
+      "voice_url": "water01"
     },
     {
       "id": 15,
       "name_category": "Wallpaper ikan",
       "wallpaper_name": "item15",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://i.pinimg.com/736x/d3/91/21/d391219891caaaea9c4439a3d14b5cc5.jpg"
+      "video_url": "https://i.pinimg.com/736x/d3/91/21/d391219891caaaea9c4439a3d14b5cc5.jpg"
     },
     {
       "id": 16,
@@ -409,16 +409,16 @@
     {
       "id": 55,
       "name_category": "Live wallpaper",
-      "wallpaper_name": "item55",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "video/item15.mp4"
+      "image_url": "image/item15.png",
+      "video_url": "video/item15",
+      "voice_url": "water01"
     },
     {
       "id": 56,
       "name_category": "Live wallpaper",
-      "wallpaper_name": "item56",
-      "wallpaper_type": "MP4",
-      "wallpaper_url": "video/item16.mp4"
+      "image_url": "image/item16.png",
+      "video_url": "video/item16",
+      "voice_url": "water01"
     },
     {
       "id": 57,
