@@ -540,6 +540,20 @@
       "wallpaper_name": "item73",
       "wallpaper_type": "MP4",
       "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/08/ed/b4/08edb4fc9d8ceeaf40af688f4defa611.mp4"
+    },
+    {
+      "id": 74,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item74",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/a4/45/27/a44527624e0d82cd7aee0d42184d577e.jpg"
+    },
+    {
+      "id": 75,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item75",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/61/da/9f/61da9fadb6392ac910f336ad90d25672.jpg"
     }
   ]
 }
