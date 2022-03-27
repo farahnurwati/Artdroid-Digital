@@ -729,13 +729,6 @@
       "wallpaper_name": "item100",
       "wallpaper_type": "IMAGE",
       "wallpaper_url": "https://i.pinimg.com/736x/e7/74/51/e774518ebad58ecd252faaf48ce9e264.jpg"
-    },
-    {
-      "id": 101,
-      "name_category": "Image Wallpaper",
-      "wallpaper_name": "item101",
-      "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://i.pinimg.com/564x/07/76/46/077646e2a3789fa4c1a95b1df889a55f.jpg"
     }
   ]
 }
