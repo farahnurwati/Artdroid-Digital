@@ -1,0 +1,594 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"STARTAPP",
+      "main_ads_banner": "ca-app-pub-8610956856200147/2153691321",
+      "main_ads_intertitial":"",
+      "backup_ads_banner":"",
+      "backup_ads_intertitial":"",
+      "interval_intertitial": 5,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"202179168",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.artdroiddigital.knyslayerwallpaper"
+    }
+  ],
+  "Categories": [
+    {
+      "name_category": "Image Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/564x/c9/3a/74/c93a746a42c541ff98e24c067b6ba2cb.jpg"
+    },
+    {
+      "name_category": "Image Live Wallpaper",
+      "wallpaper_url": "https://i.pinimg.com/564x/59/89/bf/5989bf1ffe8139f001f86e3e70080c14.jpg"
+    }
+  ],
+  "Wallpaper": [
+    {
+      "id": 1,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item1",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/f7/0f/b0/f70fb0798108d4d06a9c3b2b1d8bb5cf.jpg"
+    },
+    {
+      "id": 2,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item2",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/29/51/a7/2951a7937da8343763ca19e034a7a40b.jpg"
+    },
+    {
+      "id": 3,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item3",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/29/51/a7/2951a7937da8343763ca19e034a7a40b.jpg"
+    },
+    {
+      "id": 4,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item4",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/95/31/a6/9531a6320a35cf345e1a18676f51ebd7.jpg"
+    },
+    {
+      "id": 5,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item5",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/96/d1/7a/96d17aab1c4b6ffbd87b17cc95bd0c84.jpg"
+    },
+    {
+      "id": 6,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item6",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/7a/8e/ca/7a8eca2f07f8d1677fc6eb9c45566abe.jpg"
+    },
+    {
+      "id": 7,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item7",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/2c/58/d3/2c58d38fef5ef2132791fb5f09982712.jpg"
+    },
+    {
+      "id": 8,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item8",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/30/eb/4d/30eb4d0964ad9fc597076a102dccd4f1.jpg"
+    },
+    {
+      "id": 9,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item9",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/6f/5e/49/6f5e49ccfd3b7f0d93322d073b88c98f.jpg"
+    },
+    {
+      "id": 10,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item10",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/b0/2b/8a/b02b8a594ca976d7d59af398f893d939.jpg"
+    },
+    {
+      "id": 11,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item11",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/61/69/19/6169196623cc87f8675e7698d21d87b9.jpg"
+    },
+    {
+      "id": 12,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item12",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d5/c5/16/d5c51604171b92586316de6f4f88b470.jpg"
+    },
+    {
+      "id": 13,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item13",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/5b/03/67/5b0367557ef4c08fdae4d737f027f210.jpg"
+    },
+    {
+      "id": 14,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item14",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/83/90/49/83904912abcdd73b5ac35da10ea4cf20.jpg"
+    },
+    {
+      "id": 15,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item15",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/b5/f8/70/b5f870ffc4cfdfb3a735b189c3caae8d.jpg"
+    },
+    {
+      "id": 16,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item16",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/3f/6d/a0/3f6da0b46dc3e62507f1776f2c040c69.jpg"
+    },
+    {
+      "id": 17,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item17",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/db/34/1c/db341c2ff743a513fc6d41a632c72cb6.jpg"
+    },
+    {
+      "id": 18,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item18",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/60/a5/83/60a5838b31edf9dc1d76d4caf116089f.jpg"
+    },
+    {
+      "id": 19,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item19",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/43/34/39/4334391d74d0a61e70df07fc94571f99.jpg"
+    },
+    {
+      "id": 20,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item20",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/eb/02/05/eb02056f4e63673280852e4fe3997a88.jpg"
+    },
+    {
+      "id": 21,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item21",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/1e/62/1b/1e621b538d7fcfe41bae6d976b437514.jpg"
+    },
+    {
+      "id": 22,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item22",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/2b/ac/5e/2bac5e1817e20b91306acf68dbe1b956.jpg"
+    },
+    {
+      "id": 23,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item23",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/2d/ec/b9/2decb9bbce7b2a0c0e63aca48e038c0f.jpg"
+    },
+    {
+      "id": 24,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item24",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/15/48/c8/1548c8c805a6f91154b1aa65c5b15a29.jpg"
+    },
+    {
+      "id": 25,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item25",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/ba/03/fd/ba03fd1d547895fa2a7a11318c185102.jpg"
+    },
+    {
+      "id": 26,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item26",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/dd/7b/82/dd7b82df1b92a47cf63f5e3824bf48f1.jpg"
+    },
+    {
+      "id": 27,
+      "name_category": "Image Live Wallpaper",
+      "wallpaper_name": "item27",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/90/4a/8e/904a8e101747f013005ccfe11a1cc9ab.mp4"
+    },
+    {
+      "id": 28,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item28",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d2/cd/4b/d2cd4be2dd333e4ea063635bb978c3e2.jpg"
+    },
+    {
+      "id": 29,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item29",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/f3/ef/be/f3efbe6530b0e4e7583bb4538f690a5e.jpg"
+    },
+    {
+      "id": 30,
+      "name_category": "Image Live Wallpaper",
+      "wallpaper_name": "item30",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/d8/0e/1d/d80e1d44ee4eba830b19e27689ffdb39.mp4"
+    },
+    {
+      "id": 31,
+      "name_category": "Image Live Wallpaper",
+      "wallpaper_name": "item31",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/db/99/68/db9968345382657f24e5b276dab89b0c.mp4"
+    },
+    {
+      "id": 32,
+      "name_category": "Image Live Wallpaper",
+      "wallpaper_name": "item32",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/20/bf/6f/20bf6f750d22b5cd55d56e98336e8200.mp4"
+    },
+    {
+      "id": 33,
+      "name_category": "Image Live Wallpaper",
+      "wallpaper_name": "item33",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/1b/05/db/1b05db103fc8c8e97ff9428666504e8d.mp4"
+    },
+    {
+      "id": 34,
+      "name_category": "Image Live Wallpaper",
+      "wallpaper_name": "item34",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/29/6b/6f/296b6ff117d3a676123bdeb5e927bc7e.mp4"
+    },
+    {
+      "id": 35,
+      "name_category": "Image Live Wallpaper",
+      "wallpaper_name": "item35",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/1b/e0/10/1be010c43699e276359413d34c3d53f9.mp4"
+    },
+    {
+      "id": 36,
+      "name_category": "Image Live Wallpaper",
+      "wallpaper_name": "item36",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/08/a6/3c/08a63c2e540555658e7655a78684819e.mp4"
+    },
+    {
+      "id": 37,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item37",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/ae/7c/c4/ae7cc4747a283cf82911dc87858182d7.jpg"
+    },
+    {
+      "id": 38,
+      "name_category": "Image Live Wallpaper",
+      "wallpaper_name": "item38",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/46/d2/95/46d29567d56db5e27313aced742dd8b9.mp4"
+    },
+    {
+      "id": 39,
+      "name_category": "Image Live Wallpaper",
+      "wallpaper_name": "item39",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/38/01/23/380123f130ba347d22da2cb2d6f7e017.mp4"
+    },
+    {
+      "id": 40,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item40",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/fd/bc/60/fdbc60016bc1c69c2009839fa8b1c891.jpg"
+    },
+    {
+      "id": 41,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item41",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/d8/b5/44/d8b544b42a3acf5b6d6c92332f11ff94.jpg"
+    },
+    {
+      "id": 42,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item42",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/40/3e/3e/403e3ecb25a84353943d2cdb9dbf8a69.jpg"
+    },
+    {
+      "id": 43,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item43",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/57/95/49/57954986a6c76527850637ba35b8f65b.jpg"
+    },
+    {
+      "id": 44,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item44",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/88/5e/69/885e699a4cda078b45607bf4f8c08fd0.jpg"
+    },
+    {
+      "id": 45,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item45",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/58/76/94/587694e599793c184786548acc71063e.jpg"
+    },
+    {
+      "id": 46,
+      "name_category": "Image Live Wallpaper",
+      "wallpaper_name": "item46",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/6e/2f/24/6e2f2478f1fc8d1110700a4c0a704890.mp4"
+    },
+    {
+      "id": 47,
+      "name_category": "Image Live Wallpaper",
+      "wallpaper_name": "item47",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/20/ee/2c/20ee2cbd903f6cf48cf9c3d203de61d3.mp4"
+    },
+    {
+      "id": 48,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item48",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c9/8e/a2/c98ea285c41814febbeda6e969fbebea.jpg"
+    },
+    {
+      "id": 49,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item49",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/a9/fc/b6/a9fcb6150b9cbfaf2078db0edbc93eea.jpg"
+    },
+    {
+      "id": 50,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item50",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/5f/90/6b/5f906bd8fd4e899e3f5ff3174cc5906f.jpg"
+    },
+    {
+      "id": 51,
+      "name_category": "Image Live Wallpaper",
+      "wallpaper_name": "item51",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/54/23/fc/5423fcb9f5fc76a4294498db317b8a1f.mp4"
+    },
+    {
+      "id": 52,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item52",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/25/7d/d0/257dd0315ac79e876672fc1f29cacf78.jpg"
+    },
+    {
+      "id": 53,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item53",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/f5/6c/25/f56c25b139becb4a67f79dc6eceada44.jpg"
+    },
+    {
+      "id": 54,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item54",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/2b/43/72/2b43725076fdd6c471eebba46d8efb3e.jpg"
+    },
+    {
+      "id": 55,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item55",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/3c/86/2e/3c862ec38c4a044942ba39fef363d8bc.jpg"
+    },
+    {
+      "id": 56,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item56",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/54/5a/20/545a204002e54fffc2b023c0cd2456af.jpg"
+    },
+    {
+      "id": 57,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item57",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/2e/6b/2b/2e6b2bd54023bb41fd6b9f2dad150825.jpg"
+    },
+    {
+      "id": 58,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item58",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/37/62/b5/3762b55ade74a4d8bc8499a52d596a10.jpg"
+    },
+    {
+      "id": 59,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item59",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/c7/95/8d/c7958d723fdde96a12b46c8628bb1455.jpg"
+    },
+    {
+      "id": 60,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item60",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/b8/5e/29/b85e29382c669c3a131108e9de78376a.jpg"
+    },
+    {
+      "id": 61,
+      "name_category": "Image Live Wallpaper",
+      "wallpaper_name": "item61",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/07/6f/73/076f7328a139d29c4670ab3b8797e251.mp4"
+    },
+    {
+      "id": 62,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item62",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/88/4a/14/884a14ae334224a44715441b40f75968.jpg"
+    },
+    {
+      "id": 63,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item63",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/81/7e/0f/817e0f3439708ee6db5d6e308b5fd72d.jpg"
+    },
+    {
+      "id": 64,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item64",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/18/06/92/180692405da166bd505ffcc4a77a4084.jpg"
+    },
+    {
+      "id": 65,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item65",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/1c/48/f7/1c48f74be9408445faab3bd96979b331.jpg"
+    },
+    {
+      "id": 66,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item66",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/7d/46/95/7d4695a18855dbbde2cccd25eff7cdc9.jpg"
+    },
+    {
+      "id": 67,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item67",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/63/fb/67/63fb670f62615fdab8165bfaf9ae1239.jpg"
+    },
+    {
+      "id": 68,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item68",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/d8/be/c9/d8bec9156ec1bfd2a2e490989f0b62c1.jpg"
+    },
+    {
+      "id": 69,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item69",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/09/73/77/097377d9d406a01f6c0d9dc10816d7fa.jpg"
+    },
+    {
+      "id": 70,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item70",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/0e/d9/1a/0ed91a1b26cc5ad460a19b16750520c0.jpg"
+    },
+    {
+      "id": 71,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item71",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/f6/79/7c/f6797c937ec4db0fa7ea00b1ee6d5246.jpg"
+    },
+    {
+      "id": 72,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item72",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/8a/48/6f/8a486f1404293a42d0dcf47dba3d740e.jpg"
+    },
+    {
+      "id": 73,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item73",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/736x/9e/ed/3b/9eed3b9b0172e41d5cd641ccec75cc78.jpg"
+    },
+    {
+      "id": 74,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item74",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/c9/3a/74/c93a746a42c541ff98e24c067b6ba2cb.jpg"
+    },
+    {
+      "id": 75,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item75",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/59/89/bf/5989bf1ffe8139f001f86e3e70080c14.jpg"
+    },
+    {
+      "id": 76,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item76",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/79/b8/f7/79b8f789d96ecd3d42f4d3f0e6ff257c.jpg"
+    },
+    {
+      "id": 77,
+      "name_category": "Image Live Wallpaper",
+      "wallpaper_name": "item77",
+      "wallpaper_type": "MP4",
+      "wallpaper_url": "https://v.pinimg.com/videos/mc/720p/e7/48/72/e74872889d5b080b2a0e54fcd7ad1b75.mp4"
+    },
+    {
+      "id": 78,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item78",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/be/dc/7b/bedc7b8903687c1d00651dc919df2de1.jpg"
+    },
+    {
+      "id": 79,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item79",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/2d/7d/ff/2d7dff86b438a3c97e22c5d924fe2c4b.jpg"
+    },
+    {
+      "id": 80,
+      "name_category": "Image Wallpaper",
+      "wallpaper_name": "item80",
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "https://i.pinimg.com/564x/65/3b/9a/653b9a070ce88e06be17b219cbb060cc.jpg"
+    }
+  ]
+}
